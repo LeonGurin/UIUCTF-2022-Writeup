@@ -5,7 +5,7 @@ ___
 
 Searching the word `review` in the discord search bar, we find that an acount with a purple name shows up that claims to be said reviewr, clicking on his name and looking at his role we can get the flag:
 
-![img]()
+![img](https://github.com/LeonGurin/UIUCTF-2022/blob/main/Everyone's%20A%20Critic%201/img.png)
 
 > uiuctf{this_flag_is_not_bait}
 
