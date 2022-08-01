@@ -10,9 +10,10 @@
  | [Everyone's A Critic 4](https://github.com/LeonGurin/UIUCTF-2022/tree/main/Everyone's%20A%20Critic%204) | 50/50
  | [Everyone's A Critic 5](https://github.com/LeonGurin/UIUCTF-2022/tree/main/Everyone's%20A%20Critic%205) | 50/50
  | [Everyone's A Critic 6](https://github.com/LeonGurin/UIUCTF-2022/tree/main/Everyone's%20A%20Critic%206) | 50/50
+ | Feedback Survey | 100/100
 
 
 # Competition Results:
-* **Scored:** XXX points
-* **Placed:** XXX place
+* **Scored:** 451 points
+* **Placed:** 111 place
 
